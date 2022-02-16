@@ -5,8 +5,9 @@ body {
     }
 
 img {max-height:100%;
-max-width:auto;
-object-fit: cover;
+max-width: auto;
+object-fit: contain;
+
 }
 .pics {height: 140px;width:210px; }
 .pics {display: flex;}
@@ -22,9 +23,9 @@ overflow: hidden;
 padding: 1px;
 text-align: center;
  }
-.pics {display: flex;
     
-}
+
+
  
 
 
