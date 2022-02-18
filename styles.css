@@ -1,3 +1,10 @@
+.title {font-size: x-large ;
+    font-family: Impact, fanstasy;}
+
+h1 {font-size: xx-large;
+        font-style: unset;
+        font-family: Verdana;}
+    
 body {
     background-color: olive;
     text-align: center; 
@@ -7,29 +14,22 @@ body {
 img {max-height:100%;
 max-width: auto;
 object-fit: contain;
-
 }
+
 .pics {height: 140px;width:210px; }
+
 .pics {display: flex;}
-h1 {font-size: xx-large;
-    font-style: unset;
-    font-family: Verdana;}
 
 img {background-color: burlywood;
 border: 1px solid;
-margin: 1px;
+margin-left: auto;
+margin-right: auto;
 border-radius: 2px;
 overflow: hidden;
 padding: 1px;
-text-align: center;
+align-items: center;
  }
-    
+   
 
-
- 
-
-
-.title {font-size: x-large ;
-font-family: Impact, fanstasy;}
 
 
